@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 /**
  * main - prints the alphabet in reverse.
 (*
@@ -15,3 +15,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
+}
