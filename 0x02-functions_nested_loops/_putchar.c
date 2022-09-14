@@ -5,7 +5,6 @@
  * @c: The character to print
  *
  * Return: On success 1.
- * 
  */
 int _putchar(char c)
 {
