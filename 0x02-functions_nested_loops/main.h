@@ -1,5 +1,5 @@
-#ifndef 0-putchar
-#define 0-putchar
+#ifndef
+#define 
 
 char _putchar(char c);
 void print_alphabet(void);
@@ -15,4 +15,4 @@ int add(int one, int two);
 void print_to_98(int n);
 void print_times_table(int n);
 
-#endif /* 0-putchar
+#endif 
